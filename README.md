@@ -29,7 +29,6 @@ Version|Date|Comments
 
 ## Features
 
-> Description of the sample with possible additional details than in short summary.
 
 This sample illustrates the following concepts:
 
@@ -43,9 +42,6 @@ This sample illustrates the following concepts:
 * Permissions to create Azure AD Groups
 
 ## Solution Components
-
-> Please list the solution components you use in this sample. See example below.
-> DELETE THIS PARAGRAPH BEFORE SUBMITTING
 
 The following solution components are used in this sample:
 
@@ -65,7 +61,9 @@ Not required
 * [Download](./solution/YOURSAMPLENAME.zip) the solution `.zip` from the `solution` folder
 * Within **https://make.powerapps.com**, import the `.zip` file via **Solutions** > **Import solution** > **Browse** and select the `.zip` file you just downloaded.
 * Click next.
-* ...
+* Click Import
+* Run the **Add a new AAD group and associated Team** flow
+* Open the **Manage Power Platform Teams Canvas App**
 
 ## Using the Source Code
 
