@@ -3,13 +3,11 @@
 
 ## Summary
 
-Short summary on functionality and used technologies.
-
-This solution allows admins to manage assignment of teams, users and column security roles to Azure AD synced teams via a cnavas app.
+This solution allows admins to manage assignment of Security Roles, Column Secuirty Profiles, and Users to Azure AD synced teams via a Canvas App.
 
 I have also included a Power Automate Cloud Flow to create AAD synced team for demo purposes
 
-![picture of the sample](assets/preview.png)
+![picture of the sample](assets/Preview.png)
 
 ## Applies to
 
