@@ -58,7 +58,7 @@ Not required
 
 ## Minimal Path to Awesome
 
-* Download the [Unmanaged](.Solutions/ManageSecurityRoles_1.0.0.0.zip) or [Managed](.Solutions/ManageSecurityRoles_1.0.0.0_managed.zip) solution `.zip` from the `Solutions` folder
+* Download the **[Unmanaged](.Solutions/ManageSecurityRoles_1.0.0.0.zip)** or **[Managed](.Solutions/ManageSecurityRoles_1.0.0.0_managed.zip)** solution `.zip` from the `Solutions` folder
 * Within **https://make.powerapps.com**, import the `.zip` file via **Solutions** > **Import solution** > **Browse** and select the `.zip` file you just downloaded.
 * Click next.
 * Click Import
