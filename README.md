@@ -58,7 +58,7 @@ Not required
 
 ## Minimal Path to Awesome
 
-* [Download](./solution/YOURSAMPLENAME.zip) the solution `.zip` from the `solution` folder
+* Download the [Unmanaged] (.Solutions/ManageSecurityRoles_1.0.0.0.zip) or [Managed] (.Solutions/ManageSecurityRoles_1.0.0.0_managed.zip)solution `.zip` from the `Solutions` folder
 * Within **https://make.powerapps.com**, import the `.zip` file via **Solutions** > **Import solution** > **Browse** and select the `.zip` file you just downloaded.
 * Click next.
 * Click Import
@@ -74,7 +74,7 @@ You can also use the [Power Apps CLI](https://aka.ms/pac/docs) to pack the sourc
   ```bash
   pac solution pack --folder pathtosourcefolder --zipfile pathtosolution  --processCanvasApps
   ```
-  Making sure to replace `pathtosourcefolder` to point to the path to this sample's `sourcecode` folder, and `pathtosolution` to point to the path of this solution's `.zip` file (located under the `solution` folder)
+  Making sure to replace `pathtosourcefolder` to point to the path to this sample's `sourcecode` folder, and `pathtosolution` to point to the path of this solution's `.zip` file (located under the `Solutions` folder)
 * Within **https://make.powerapps.com**, import the `.zip` file via **Solutions** > **Import solution** > **Browse** and select the `.zip` file you just downloaded.
 * Click next.
 * Click import
