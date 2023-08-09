@@ -9,13 +9,7 @@ I have also included a Power Automate Cloud Flow to create AAD synced team for d
 
 ![picture of the sample](assets/Preview.png)
 
-## Applies to
-
-* [Microsoft Power Apps](https://docs.microsoft.com/powerapps/)
-
 ## Authors
-
-
 
 Solution|Author(s)
 --------|---------
