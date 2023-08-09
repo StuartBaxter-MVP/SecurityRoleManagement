@@ -34,7 +34,7 @@ This sample illustrates the following concepts:
 
 * assigning of security roles to Power Platform Teams by using relate/unrelate
 * assigning of column secuirty profiles to Power Platform Teams by using relate/unrelate
-* assigning of users to Azure AD groups in a using the Azure Ad connector for Canvas Apps
+* assigning of users to Azure AD groups using the Azure Ad connector for Canvas Apps
 
 ## Prerequisites
 
@@ -52,11 +52,7 @@ The following solution components are used in this sample:
 * Dataverse Manage Security Roles (Connection reference)
 * Manage Security Roles Component Library (Component library)
 
-## Data Sources
-
-Not required
-
-## Minimal Path to Awesome
+## Installation Instructions
 
 * Download the **[Unmanaged](.Solutions/ManageSecurityRoles_1.0.0.0.zip)** or **[Managed](.Solutions/ManageSecurityRoles_1.0.0.0_managed.zip)** solution `.zip` from the `Solutions` folder
 * Within **https://make.powerapps.com**, import the `.zip` file via **Solutions** > **Import solution** > **Browse** and select the `.zip` file you just downloaded.
@@ -64,22 +60,6 @@ Not required
 * Click Import
 * Run the **Add a new AAD group and associated Team** flow
 * Open the **Manage Power Platform Teams Canvas App**
-
-## Using the Source Code
-
-You can also use the [Power Apps CLI](https://aka.ms/pac/docs) to pack the source code by following these steps::
-
-* Clone the repository to a local drive
-* Pack the source files back into `.zip` file:
-  ```bash
-  pac solution pack --folder pathtosourcefolder --zipfile pathtosolution  --processCanvasApps
-  ```
-  Making sure to replace `pathtosourcefolder` to point to the path to this sample's `sourcecode` folder, and `pathtosolution` to point to the path of this solution's `.zip` file (located under the `Solutions` folder)
-* Within **https://make.powerapps.com**, import the `.zip` file via **Solutions** > **Import solution** > **Browse** and select the `.zip` file you just downloaded.
-* Click next.
-* Click import
-* following solution import, run the **Add a new AAD group and associated Team** flow to create a team for demo purposes
-* Open the **Manage Power Platform Teams Canvas App** and start using it
 
 ## Disclaimer
 
