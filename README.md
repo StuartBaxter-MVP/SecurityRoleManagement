@@ -19,7 +19,7 @@ I have also included a Power Automate Cloud Flow to create AAD synced team for d
 
 Solution|Author(s)
 --------|---------
-ManageSecurityRoles | [Stuart Baxter - Business Applications MVP](LinkToYourGitHubProfile)
+ManageSecurityRoles | Stuart Baxter - Business Applications MVP
 
 ## Version history
 
